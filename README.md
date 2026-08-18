@@ -1,16 +1,18 @@
-## Hi there 👋
+# Luana Santos
 
-<!--
-**santos-luana/santos-luana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Data Science & Production Engineering
 
-Here are some ideas to get you started:
+## Interested in: 
+- 📊 Data Analytics
+- 📈 Business Intelligence
+- ⚙️ Process Improvement
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tools
+- Python · Machine Learning · Power BI · DAX · Excel 
+
+## GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=santos-luana&show_icons=true&hide_border=true&theme=transparent" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santos-luana&layout=compact&hide_border=true&theme=transparent" />
+</p>
