@@ -1,6 +1,6 @@
 # Hi 👋, I'm Luana Santos
 
-I like exploring data to see what it can tell me and how it can help improve processes.  
+I like exploring data to see what it can tell me about how things really are and work, and how it can help improve processes and everyday life. 
 I'm currently learning about **Model Explainability in Machine Learning**.
 
 When I'm not at my computer, I'm probably doing some art. 🎨
